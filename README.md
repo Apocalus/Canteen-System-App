@@ -1,16 +1,5 @@
-# firebase_connection
+# Canteen System App
 
-A new Flutter project.
+The Canteen Management System offers menu management and order placement. Only authorized users can update the menu by adding or removing items. Each menu modification is instantly reflected in the database, ensuring real-time synchronization of menu details. On the other hand, customers can access the system through an app to place orders conveniently. 
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Project developed using Flutter, Android Studio & Firebase.
